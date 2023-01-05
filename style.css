@@ -1,0 +1,71 @@
+.attribution {
+  font-size: 11px; text-align: center; 
+}
+
+.attribution a {
+  color:font hsl(228, 45%, 44%); 
+}
+
+.desc {
+  
+}
+
+.notif {
+  border-radius: 25px;
+  border: 2px solid black;
+  padding: 20px;
+  width: auto;
+  height: auto;
+}
+
+.notifwrap .notifbox {
+  width:320px;
+  height:auto;
+}
+
+.notifsubhead {
+  font-family:"Times New Roman";
+}
+
+.notifwrap {
+  width: 500px;
+  margin: 120px auto 0;
+  border: solid;
+}
+
+.pfp {
+  float:left
+}
+
+.time {
+  
+}
+
+.MARfx {
+  float:right;
+}
+
+#notifnum {
+  border-radius: 25px;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  background: #02066e;
+  color: #ffffff;
+  text-align: center;
+  font: 15px Arial, sans-serif;
+}
+
+.notifbadge {
+  border-radius: 10px;
+  width: 10px;
+  height: 10px;
+  padding: 5px;
+  background: orange;
+  text-align: center;
+  display: show;
+}
+
+#MAR {
+  
+}
